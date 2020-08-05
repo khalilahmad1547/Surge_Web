@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(29, 28, 28);
+    color: rgb(19, 150, 150);
+}
+
+.t_content{
+    border:solid rgb(19, 150, 150);
+    border-radius: 3px;
+    padding: 10px 10px;
+    margin: 10px;
+}
